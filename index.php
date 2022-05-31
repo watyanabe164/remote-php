@@ -7,8 +7,6 @@
 
 function sayHello($name) {
 	echo "Hello $name!";
-	echo "Hello $name!";
-	echo "Hello $name!";
 }
 
 ?>
